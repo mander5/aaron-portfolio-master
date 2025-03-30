@@ -1,0 +1,41 @@
+/* Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Fonts */
+body {
+  font-family: 'Open Sans', sans-serif;
+  background-color: #f9f9f9;
+  color: #111111;
+  line-height: 1.6;
+}
+
+/* Headings */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+}
+
+/* Links */
+a {
+  color: #3b82f6;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+/* Layout helpers */
+section {
+  padding: 4rem 1rem;
+  max-width: 1000px;
+  margin: 0 auto;
+}

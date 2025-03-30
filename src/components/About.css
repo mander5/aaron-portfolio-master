@@ -1,0 +1,26 @@
+.about {
+  background-color: #ffffff;
+  padding: 6rem 2rem;
+  color: #111111;
+  display: flex;
+  justify-content: center;
+}
+
+.about-content {
+  max-width: 700px;
+  text-align: left;
+}
+
+.about h2 {
+  font-size: 2rem;
+  font-weight: 700;
+  margin-bottom: 1.5rem;
+  font-family: 'Poppins', sans-serif;
+}
+
+.about p {
+  font-size: 1.1rem;
+  line-height: 1.8;
+  margin-bottom: 1.5rem;
+  color: #374151;
+}

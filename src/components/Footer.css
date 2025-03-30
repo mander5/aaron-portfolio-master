@@ -1,0 +1,33 @@
+/* Add this to your global CSS (App.css or similar) */
+.footer {
+  background-color: #1a1a1a;
+  color: #fff;
+  padding: 2rem 0;
+  text-align: center;
+}
+
+.footer-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+.footer-links {
+  margin-bottom: 1rem;
+}
+
+.footer-links a {
+  color: #fff;
+  text-decoration: none;
+  margin: 0 1rem;
+  font-size: 1.1rem;
+}
+
+.footer-links a:hover {
+  color: #f0a500;
+}
+
+footer p {
+  font-size: 0.9rem;
+  color: #bbb;
+}
