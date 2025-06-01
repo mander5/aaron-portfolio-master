@@ -14,7 +14,7 @@ const projects = [
     title: 'Sports Marketing Website',
     description:
       'A clean and bold landing site for a sports-focused advertising agency.',
-    technologies: ['HTML', 'CSS', 'JavaScript'],
+    technologies: [],
     image: ldnSportImage,
     link: 'https://ldnsportsocial.com',
     github: 'https://github.com/mander5/LDNupdate',
@@ -34,7 +34,7 @@ const projects = [
     title: 'Front-End Clone of ChatGPT',
     description:
       'A front-end clone of ChatGPT using React, styled to mimic the original.',
-    technologies: ['React', 'CSS'],
+    technologies: [],
     image: gpt3Image,
     link: 'https://mander5-gpt3-clone.netlify.app/',
     github: 'https://github.com/mander5/GPT3-clone',
@@ -44,7 +44,7 @@ const projects = [
     title: 'Previous Personal Portfolio',
     description:
       'My old portfolio site that showcases my skills and projects before the current design.',
-    technologies: ['HTML', 'CSS', 'JavaScript'],
+    technologies: [],
     image: oldPortfolioImage,
     link: 'https://aaron-portfolio-old.netlify.app/',
     github: 'https://github.com/mander5/Portfolio',
@@ -54,7 +54,7 @@ const projects = [
     title: 'Old Version of Sports Media Website',
     description:
       'An earlier version of the LDN Sport Social website showcasing the first design iteration.',
-    technologies: ['HTML', 'CSS', 'JavaScript'],
+    technologies: [],
     image: oldLdnSportImage, // Image for the previous LDN Sport Social build
     link: 'https://ldnsportsocial.netlify.app/',
     github: 'https://github.com/mander5/LDNsportSocial',
@@ -64,7 +64,7 @@ const projects = [
     title: 'Recipe Website',
     description:
       'A recipe website that fetches information from an online API repository.',
-    technologies: ['JavaScript', 'HTML', 'CSS'],
+    technologies: [],
     image: forkifyImage, // Image for the Forkify project
     link: 'https://forkify-mander5.netlify.app/',
     github: 'https://github.com/mander5/forkifyApp',
