@@ -6,6 +6,7 @@ import gpt3Image from '../assets/gpt3-clone.png';
 import oldPortfolioImage from '../assets/old-portfolio.png';
 import oldLdnSportImage from '../assets/ldn-sport-old.png';
 import forkifyImage from '../assets/forkify.png';
+import alina from '../assets/alina.png';
 
 const projects = [
   {
@@ -17,6 +18,16 @@ const projects = [
     image: ldnSportImage,
     link: 'https://ldnsportsocial.com',
     github: 'https://github.com/mander5/LDNupdate',
+  },
+  {
+    name: 'Alina-UX',
+    title: 'User Experience portfolio',
+    description:
+      'A portfolio website for a UX designer, showcasing their work and skills - using a content management system.',
+    technologies: ['HTML', 'CSS', 'JavaScript', 'CMS', 'React'],
+    image: alina,
+    link: 'https://alina-ux.netlify.app/',
+    github: 'https://github.com/mander5/autoCRMux',
   },
   {
     name: 'GPT3 Clone',
